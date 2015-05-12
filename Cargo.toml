@@ -1,0 +1,4 @@
+[package]
+name = "5-rust"
+version = "0.1.0"
+authors = ["Henry Jenkins <henry@henryjenkins.name>"]
